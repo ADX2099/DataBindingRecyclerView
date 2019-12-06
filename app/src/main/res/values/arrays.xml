@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Goku</item>
+        <item>Vegeta</item>
+        <item>Gohan</item>
+        <item>Trunks</item>
+        <item>Bulma</item>
+    </string-array>
+    <string-array name="emails">
+        <item>goku@gmail.com</item>
+        <item>vegeta@gmail.com</item>
+        <item>gohan@gmail.com</item>
+        <item>trunks@gmail.com</item>
+        <item>bulma@gmail.com</item>
+    </string-array>
+</resources>
